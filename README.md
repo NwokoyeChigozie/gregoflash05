@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, I am Nwokoye Chigozie👋
+# Backend Software Developer
+Welcome My GITHUB Profile :simple_smile:
 
 <!--
 **gregoflash05/gregoflash05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
