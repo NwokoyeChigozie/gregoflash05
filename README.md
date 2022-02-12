@@ -1,6 +1,6 @@
 ### Hi there, I am Nwokoye Chigozie👋
 #### Backend Software Developer
-##### Welcome My GITHUB Profile :blush:
+##### Welcome To My GITHUB Profile :blush:
 #
 
 ## About Me
